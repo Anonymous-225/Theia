@@ -2,7 +2,7 @@
 
 Theia can be used to detect bugs in Keras programs and PyTorch Programs.
 
-For Keras, you need to add class Theia in Theia_Keras.py as a subclass in your keras callbacks.py file.
+For Keras, you need to add class Theia in Theia_Keras.py as a subclass in your keras.callbacks.py file.
 
 Then you can pass Theia() to .fit() method of the model as follows:
 
