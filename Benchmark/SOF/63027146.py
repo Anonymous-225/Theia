@@ -5,7 +5,6 @@ from tensorflow.keras.layers import Dense, Dropout, Flatten
 from tensorflow.keras.layers import Conv2D, MaxPooling2D,Activation
 from tensorflow.keras.utils import to_categorical
 
-
 batch_size = 32
 epoch = 30
 img_rows, img_col = 32,32
