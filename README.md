@@ -36,3 +36,18 @@ Tensorflow 2.1.0
 Torch 1.13.1
 numpy 1.21.6
 ```
+
+# This repository contains the reproducibility package of Theia
+
+[Benchmark](https://github.com/Anonymous-225/Theia/tree/main/Benchmark)
+* This folder contains 52 buggy programs (30 mutated programs and 22 from Stack Overflow)
+
+[Kaggle Notebooks](https://github.com/Anonymous-225/Theia/blob/main/Kaggle%20Notebooks%20for%20Threshold.xlsx)
+* This file contains the details of 70 Kaggle notebooks used for defining threshold.
+
+[Mutated Programs Accuracy](https://github.com/Anonymous-225/Theia/blob/main/Mutated%20Programs%20Accuracy.xlsx)
+* This file shows the accuracy difference between base program and mutated program. 
+
+
+
+
