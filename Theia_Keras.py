@@ -143,7 +143,7 @@ class Theia(Callback):
                 if self.batch_size >256:
                       mes.append('Decrease the batch size --> preferred 256 or less')
                       c+=1
-        If sam < 20000
+        if sam < 20000
                 if self.batch_size > 32:
                         mes.append('Decrease the batch size --> preferred 64 or less')
                         c+=1
